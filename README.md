@@ -19,3 +19,10 @@ Information about the applicanIt included; classification, application type, aff
 What variable(s) should be removed from the input data because they are neither targets nor features?
 Variables removed: EIN and NAME
 
+I was only able to achieve 73% target model performance which is below the requested 75%.
+
+Steps taken to increase model performance:
+
+1> Increase the number of neurons and epoch: Increasing the number of neurons in a layer enhances the model’s expressiveness, enabling it to capture intricate data patterns. This refinement also improves parameter estimation, potentially leading to better accuracy. However, striking a balance is crucial, as excessive epochs can result in overfitting. In my case, I achieved a 73% accuracy
+
+
