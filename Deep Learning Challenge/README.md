@@ -14,14 +14,14 @@ Answers to challenge questions:
 The target variable for the model is the "success" or "failure" of funding applicants
 
 - What variable(s) are the features for your model?
-AFFILIATION—Affiliated sector of industry
-CLASSIFICATION—Government organization classification
-USE_CASE—Use case for funding
-ORGANIZATION—Organization type
-STATUS—Active status
-INCOME_AMT—Income classification
-SPECIAL_CONSIDERATIONS—Special considerations for application
-ASK_AMT—Funding amount requested
+  - AFFILIATION—Affiliated sector of industry
+  - CLASSIFICATION—Government organization classification
+  - USE_CASE—Use case for funding
+  - ORGANIZATION—Organization type
+  - STATUS—Active status
+  - INCOME_AMT—Income classification
+  - SPECIAL_CONSIDERATIONS—Special considerations for application
+  - ASK_AMT—Funding amount requested
 
 - What variable(s) should be removed from the input data because they are neither targets nor features?
 Variables removed: EIN and NAME
