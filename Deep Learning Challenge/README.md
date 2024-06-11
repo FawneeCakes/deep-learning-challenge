@@ -37,7 +37,8 @@ Steps taken to increase model performance:
 
 - Using an automated optimizer, such as a hyperparameter tuner, involves systematically exploring different combinations of hyperparameters. These hyperparameters might include activation functions, the number of layers, the number of neurons, and the number of training epochs. By doing so, you can identify the optimal combination for your specific problem, potentially improving accuracy. I still only achieved 73% accuracy.
 
-Conclusion
+Conclusion:
+
 Being that I only achieved 73% accuracy, the following could be considered to imporve the performance:
 
   - Check data cleaning: ensure the data is properly cleaned which can be crucial to a models performance
