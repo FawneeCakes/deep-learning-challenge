@@ -35,7 +35,7 @@ Steps taken to increase model performance:
 
 - Using a different activation function (tanh for the second layer): incorporating an alternative activation function, such as tanh, the model’s interpretation and transformation of input data can be influenced. Activation functions exhibit distinct properties and can capture various non-linear patterns. Utilizing tanh introduces a different non-linearity, which may be better suited for addressing the specific problem, potentially resulting in improved accuracy. 73% accuracy acheieved witht his layer.
 
-- Using an automated optimizer, such as a hyperparameter tuner, involves systematically exploring different combinations of hyperparameters. These hyperparameters might include activation functions, the number of layers, the number of neurons, and the number of training epochs. By doing so, you can identify the optimal combination for your specific problem, potentially improving accuracy. I still only achieved 73% accuracy.
+- Using an automated optimizer, such as a hyperparameter tuner, involves systematically exploring different combinations of hyperparameters. These hyperparameters might include activation functions, the number of layers, the number of neurons, and the number of training epochs. By doing so, you can identify the optimal combination for your specific problem, potentially improving accuracy. I still only achieved 73% accuracy. Running this layer took the longest, almost 30 min.
 
 Conclusion:
 
