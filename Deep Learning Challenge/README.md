@@ -40,9 +40,9 @@ Steps taken to increase model performance:
 Conclusion
 Being that I only achieved 73% accuracy, the following could be considered to imporve the performance:
 
-  -Check data cleaning: ensure the data is properly cleaned which can be crucial to a models performance
-  -Add more data: increasing the size of the data set could help the model learn from a larger and more diverse set of    examples
-  -Explore other alternative machine learning alogorithms
+  - Check data cleaning: ensure the data is properly cleaned which can be crucial to a models performance
+  - Add more data: increasing the size of the data set could help the model learn from a larger and more diverse set of examples
+  - Explore other alternative machine learning alogorithms
   
 Experimenting with these steps could improve accuracy in classification tasks.
 
